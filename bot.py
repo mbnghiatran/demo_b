@@ -116,7 +116,7 @@ def bypass_capcha(driver, session):
     return
 
 
-def Fill_form(driver, session):
+def fill_form(driver, session):
     driver.switch_to.window(session)
     # TODO
     return
@@ -165,7 +165,7 @@ if __name__ == "__main__":
 
             # # Fill form
             # bypass_capcha(driver, main_page)
-            # Fill_form(driver, main_page)
+            # fill_form(driver, main_page)
 
             driver.quit()
             print("Done sucessfully !!!")
