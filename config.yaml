@@ -1,0 +1,10 @@
+driver_path: /Users/baonghia/Desktop/bot/geckodriver
+ref_url: https://solanium.io/project/goosefx/?ref=gT4dSXum
+twitter_link:  https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.solanium.io%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5EGooseFX1&region=follow_link&screen_name=GooseFX1
+telegram_link: https://t.me/goosefx
+twitter_username: Marceli1304
+telegram_username: Marceli1304
+pass_wallet: 12345678
+profiles_root: "./abc"
+start: 1
+end: 2

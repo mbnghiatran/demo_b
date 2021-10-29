@@ -1,0 +1,7 @@
+.env
+rnd_bot
+ICO.Bot-master
+geckodriver.log
+.vscode
+__pycache__/
+.DS_Store
